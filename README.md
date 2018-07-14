@@ -7,3 +7,7 @@
 ##### 4. Salary and company profit automatic calculation
 ##### 5. Advertisement system 
 ##### 6. messaging system 
+
+##### Sample screenshot
+
+<img width="960" alt="capture" src="https://user-images.githubusercontent.com/27563273/42721089-9b702a1c-8755-11e8-9bc1-8f58fc2a98e8.PNG">
